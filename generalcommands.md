@@ -1,13 +1,11 @@
-# DockerForStudents
+# General Commands
 
-some docker files for my students.
+Key Commands
 
-see [generalcommands.md](generalcommands.md) first.
-
-# Folders
-
-1. [MSSQLDocker](MySQLDocker) - run MS SQL in docker
-1. [MySQLDocker](MySQLDocker) - run mysql in docker
+1. docker init
+1. docker compose up --build
+1. docker stop $(docker ps -a -q)
+1. docker rm $(docker ps -a -q)
 
 # book a session with me
 
