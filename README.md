@@ -7,7 +7,8 @@ see [generalcommands.md](generalcommands.md) first.
 # Folders
 
 1. [MSSQLDocker](MySQLDocker) - run MS SQL in docker
-1. [MySQLDocker](MySQLDocker) - run mysql in docker
+1. [MySQLDocker](MySQLDocker) - run mysql latest version in docker
+1. [MySQLDockerV8](MySQLDockerV8) - run mysql version 8 in docker
 
 # book a session with me
 
