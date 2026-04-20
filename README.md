@@ -4,17 +4,11 @@ some docker files for my students.
 
 see [generalcommands.md](generalcommands.md) first.
 
-# Folders
-
-1. [MSSQLDocker](MSSQLDocker) - run MS SQL in docker
-1. [MySQLDocker](MySQLDocker) - run mysql latest version in docker
-1. [MySQLDockerV8](MySQLDockerV8) - run mysql version 8 in docker
-
-# book a session with me
+## book a session with me
 
 1. [calendly](https://calendly.com/jaycodingtutor/30min)
 
-# hire and get to know me
+## hire and get to know me
 
 find ways to hire me, follow me and stay in touch with me.
 
